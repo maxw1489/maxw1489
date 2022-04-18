@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maxw1489
 - 👀 I’m interested in Computer Vision / AI.
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on object detection model building from the ground (RPN, FPN, RIO etc. in detail).
+- 💞️ I’m looking to collaborate on object detection models building from low-level upwards (RPN, FPN, RIO etc. in detail).
 - 📫 How to reach me: just give me a hug ;)
 
 <!---
